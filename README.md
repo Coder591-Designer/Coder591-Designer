@@ -2,4 +2,4 @@
 I code. And I'm smart. I think.
 <font size=1>I hope....  Right?</font>
 
-Github: CuriousCodingCanadian
+*Github: CuriousCodingCanadian*
