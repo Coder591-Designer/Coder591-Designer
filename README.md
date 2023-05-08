@@ -1,3 +1,5 @@
-👋 Hi, I’m @Coder591-Designer!
-👀 I’m interested in ... Coding in Python
-🌱 I’m currently learning ... Web Servers in Python
+## **TYSM TO <i>temporarily removed</i> for my pfp**
+I code. And I'm smart. I think.
+<font size=1>I hope....  Right?</font>
+
+Github: CuriousCodingCanadian
